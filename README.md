@@ -1,1 +1,1 @@
-# .github
+# Hola! somos el grupo 3!
